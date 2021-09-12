@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 /.idea/pyshuffle.iml
 .idea/
+
+tmp/
